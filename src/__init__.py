@@ -1,0 +1,1 @@
+"""Kafka hello-world package."""
